@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "403939764238",
+    "project_id": "my-blood-donation-app1",
+    "storage_bucket": "my-blood-donation-app1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403939764238:android:18a0e9cc7e1e12d953345f",
+        "android_client_info": {
+          "package_name": "com.example.bdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403939764238-he4n5va7lmk5kj052nd7bd6ok8bh51r3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bdk",
+            "certificate_hash": "749f0fba171f9e43fd38ff63b6191893566fa553"
+          }
+        },
+        {
+          "client_id": "403939764238-5cohjq7rot1fhcm848fnp0blpebf2ej2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiLCBHCp0G_UfivLOFSnN9--hcwNLnATc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403939764238-5cohjq7rot1fhcm848fnp0blpebf2ej2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403939764238-glphf8lbu9vc8qa324r389kli2odm8o7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bdk"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403939764238:android:106da8c2aff30cd753345f",
+        "android_client_info": {
+          "package_name": "com.example.blood_donation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403939764238-5cohjq7rot1fhcm848fnp0blpebf2ej2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiLCBHCp0G_UfivLOFSnN9--hcwNLnATc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403939764238-5cohjq7rot1fhcm848fnp0blpebf2ej2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403939764238-glphf8lbu9vc8qa324r389kli2odm8o7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bdk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>403939764238-2cl6ocs4vbpra6hr09j3ss5s3ugokan6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.403939764238-2cl6ocs4vbpra6hr09j3ss5s3ugokan6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>403939764238-he4n5va7lmk5kj052nd7bd6ok8bh51r3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZhvmQtRRIem-37oCOL_qSlYx3xkAcPoI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>403939764238</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.bloodDonationApp</string>
+	<key>PROJECT_ID</key>
+	<string>my-blood-donation-app1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-blood-donation-app1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:403939764238:ios:1b1a2a390914ca2c53345f</string>
+</dict>
+</plist>
